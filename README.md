@@ -4,7 +4,7 @@
 **Sushilbokade/Sushilbokade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="left" alt="GIF" height="450px" width="450px" src="https://c.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" />
+<img align="right" alt="GIF" height="450px" width="450px" src="https://c.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" />
 <p align="left">
 
 ### I'm a Data Science student and Data and AI Enthusiast!
