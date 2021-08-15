@@ -1,5 +1,9 @@
-# 👋 Hi there, you are looking at Sushil Bokade's profile...!
+<div align="center">
+<img align="center" alt="png" height="200px" width="200px" src="https://user-images.githubusercontent.com/58861228/129469116-1906ab8b-ef50-4695-be1d-afe931739b37.png" />
 
+
+# 👋 Hi there, you are looking at Sushil Bokade's profile...!
+</div>
 <!--
 **Sushilbokade/Sushilbokade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -44,7 +48,7 @@
 [![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/sushil-bokade-0aa473189/)
 [![Website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sushil_bokade)
-[![Website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bokadesushil@gmail.com)
+
 
 <!--
 Here are some ideas to get you started:
