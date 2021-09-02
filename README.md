@@ -2,7 +2,7 @@
 <img align="center" alt="png" height="200px" width="200px" src="https://user-images.githubusercontent.com/58861228/129469116-1906ab8b-ef50-4695-be1d-afe931739b37.png" />
 
 
-# 👋 Hi there, you are looking at Sushil Bokade's profile...!
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"> Hi there, you are looking at Sushil Bokade's profile...!
 </div>
 <!--
 **Sushilbokade/Sushilbokade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,9 +45,9 @@
 
 
 ## Connect to me here:
-[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/sushil-bokade-0aa473189/)
-[![Website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sushil_bokade)
+[![Linkedin Badge](https://img.shields.io/badge/-SushilBokade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushil-bokade-0aa473189/)](https://www.linkedin.com/in/sushil-bokade-0aa473189/)
+[![Gmail Badge](https://img.shields.io/badge/-bokadesushil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bokadesushil@gmail.com)](mailto:bokadesushil@gmail.com)
+
 
 
 <!--
