@@ -14,7 +14,7 @@
 ### I'm a Data Science student and Data and AI Enthusiast!
  - ###### Studying at FET - jain University.
  - ###### My Best buddy is Python.
- - ###### Currently onto AI & Deep Learning.
+ - ###### Currently onto Data Science, AI/ML & Deep Learning.
 
 ## Languages I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
