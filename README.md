@@ -11,10 +11,9 @@
 <img align="right" alt="GIF" height="450px" width="450px" src="https://c.tenor.com/uF7aJqxcM6QAAAAi/digital-skola-bertalenta-digital.gif" />
 <p align="left">
  
-## I'm a Data Science & AI/ML Enthusiast pursuing B. Tech. (Hons.) in Data Science!
- - ##### Studying at FET - jain University.
+## I'm a Data Science & AI/ML Enthusiast!
  - ##### My Best buddy is Tableau.
- - ##### Currently onto Data Science, AI/ML & Deep Learning.
+ - ##### Currently Infrastructure Management & Automation.
 
 ## Languages I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
