@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi 👋, I'm Sushil Bokade</h1>
 
-<h3 align="center">Entry-Level Data Scientist & AI Engineer</h3>
+<h3 align="center">AI Engineer | Applied ML, LLM Applications & Intelligent Data Platforms</h3>
 
 <p align="center">
   <em>Transforming data into insights | Building intelligent solutions | Automating the future</em>
@@ -40,13 +40,19 @@
 
 <img align="right" alt="Coding" width="405" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I'm currently working on **AI-powered security solutions and explainable ML models**
+I am an AI Engineer focused on building intelligent systems on top of enterprise data.
 
-- 🌱 I'm currently learning **Advanced MLOps, LangChain, and Generative AI**
+- 🔭 Currently working on **applied machine learning, LLM-powered applications, intelligent automation, and enterprise data platforms**
+
+- 🌱 Interested in **Agentic AI, GenAI, NLP, RAG, FastAPI, analytics engineering, and scalable AI products**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sushilbokade)
 
-- 💬 Ask me about **Python, Machine Learning, Power BI, Data Analytics, and Cloud Computing**
+- 💬 Experienced with **Python, Azure, Power BI, Tableau, dbt, LangChain, FastAPI, Docker, and Power Automate**
+
+- I enjoy building solutions that are **practical, explainable, and production-oriented**
+
+- Open to collaborating on **applied AI, intelligent automation, and data product development**
 
 - 📫 How to reach me **bokadesushil@gmail.com**
 
@@ -54,18 +60,16 @@
 
 - ⚡ Fun fact **I have mentored 25+ individuals in Power BI and Data Analysis**
 
-
 <br/>
 
 
 ## 🎯 Current Focus
 
 ```
-🤖 Building LLM-powered applications with LangChain and FastAPI
-📊 Creating interactive dashboards with Power BI and Tableau  
-☁️ Deploying ML models on Azure and GCP
-🔒 Developing AI security solutions for threat detection
-📈 Automating data pipelines and improving data quality
+- Building **RAG and multi-agent AI applications**
+- Developing **LLM-powered workflows** for enterprise use cases
+- Improving **data quality, analytics readiness, and intelligent alerting**
+- Combining **ML, automation, and visualization** to support decision-making
 ```
 
 <br/>
@@ -123,7 +127,16 @@
 ## 💼 Professional Experience
 
 ### 🔹 **Kyndryl Solutions Pvt. Ltd.** *(Former IBM)*
-**Associate Technical Engineer** | *Sep 2023 - Present*
+**AI Engineer** | *Mar 2026 - Present*
+
+- Building AI-driven solutions on top of enterprise data platforms to improve operational decision-making, automation, and insight generation.
+- Contributing to Projects on NLP Chatbots with RAG & Multi - Agent integration.
+- Partner with cross-functional stakeholders to translate business problems into scalable AI, analytics, and automation solutions.
+- Contribute to reliable, decision-ready data assets for downstream analytics, intelligent alerting, and AI use cases.
+- Support data transformation, quality, and lifecycle practices that improve the usability of enterprise data for machine learning and decision-making.
+
+### 🔹 **Kyndryl Solutions Pvt. Ltd.** *(Former IBM)*
+**Associate Technical Engineer** | *Sep 2023 - Mar 2026*
 
 - Built ML models to classify uncategorized incidents, **reducing clutter by 30%**
 - Automated 50% of manual monitoring tasks using **Power Automate**
